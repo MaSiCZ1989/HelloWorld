@@ -1,2 +1,3 @@
 # HelloWorld
-MaSi Python Zero to Hero course
+
+Update 0.2
